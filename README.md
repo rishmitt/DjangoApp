@@ -1,1 +1,1 @@
-# YT-DjangoProject-Iris-App
+# DjangoProject-Iris-App
